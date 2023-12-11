@@ -20,7 +20,7 @@ Product.belongsToMany(Tag,{
   oreignKey: 'product_id,' //The foreign key in the product model
 })
 // Tags belongToMany Products (through ProductTag)
-Tag,belongsToMany(Product, {
+Tag.belongsToMany(Product, {
   through: ProductTag, //the intermediate model
   foreignKey: 'tag_id,' //This is the foreign key in the tag model
 });

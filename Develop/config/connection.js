@@ -1,4 +1,4 @@
-//Require the dotenv modle to load enviroment variables
+//Require the dotenv module to load enviroment variables
 require('dotenv').config();
 
 //Require the sequelize module
