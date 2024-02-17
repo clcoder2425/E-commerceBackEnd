@@ -69,7 +69,6 @@ Webpage use example:https://drive.google.com/file/d/1bDJFMImJ0xCnC4Uue7ZmXZm0d94
 
 - [How to use insomnia](#https://docs.insomnia.rest/insomnia/get-started)
 
-## Tutorials:
-- []()
+
 
 
