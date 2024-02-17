@@ -58,7 +58,7 @@ Webpage use example:https://drive.google.com/file/d/1bDJFMImJ0xCnC4Uue7ZmXZm0d94
  - [Express.js](#https://www.npmjs.com/package/express)
  - [dotenv](#https://www.npmjs.com/package/dotenv)
  - [Sequelize](#https://www.npmjs.com/package/sequelize)
- - 
+ - [Nodemon](#https://www.npmjs.com/package/nodemon?activeTab=versions)
 ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
