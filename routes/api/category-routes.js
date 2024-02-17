@@ -8,7 +8,7 @@ router.get('/', async(req, res) => {
   // be sure to include its associated Products
 try{
    // find all categories
-   const categories = await Category.findAll({include: [{mode: Product}]});
+   const categories = await Category.findAll({include: [{model: Product}]});
    res.status(200).json(categories);
 } catch(error){
   //handle error by sending 500 status with a custom message

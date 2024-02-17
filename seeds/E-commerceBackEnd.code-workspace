@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "E-commerceBackEnd",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"typescript.suggestionActions.enabled": false
+	}
+}
