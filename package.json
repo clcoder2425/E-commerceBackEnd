@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "@ecommerce/backend-orm",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/clcoder2425/E-commerceBackEnd.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Carmen Jimenez",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
