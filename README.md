@@ -82,11 +82,13 @@ Webpage use example:https://drive.google.com/file/d/16KgBSpcoXlpm5c2BLTvEeirTkfn
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Authors
-- [Carmen-Jimenez](#Carmen Jimenez https://github.com/clcoder2425/E-commerceBackEnd.git)
+  Carmen Jimenez
+
+  Githublink:  https://github.com/clcoder2425/E-commerceBackEnd.git
 
 ## Credits
 
-- [How-to-use-insomnia](#https://docs.insomnia.rest/insomnia/get-started)
+- [How-to-use-insomnia](https://docs.insomnia.rest/insomnia/get-started)
 
 
 
